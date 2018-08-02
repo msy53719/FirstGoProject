@@ -1,0 +1,6 @@
+1.jdk安装下载
+2.eclipse安装下载 https://www.eclipse.org/downloads/packages/
+3.go下载https://www.golangtc.com/download
+4.eclipse安装配置go
+   help-->eclipse Marketplace 搜索go 下载安装
+   window-->Preferences-->go
