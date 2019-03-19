@@ -1,10 +1,10 @@
-1.jdk°²×°ÏÂÔØ
-2.eclipse°²×°ÏÂÔØ https://www.eclipse.org/downloads/packages/
-3.goÏÂÔØhttps://www.golangtc.com/download
-4.eclipse°²×°ÅäÖÃgo
-   help-->eclipse Marketplace ËÑË÷go ÏÂÔØ°²×°
+1.jdkå®‰è£…ä¸‹è½½
+2.eclipseå®‰è£…ä¸‹è½½ https://www.eclipse.org/downloads/packages/
+3.goä¸‹è½½https://www.golangtc.com/download
+4.eclipseå®‰è£…é…ç½®go
+   help-->eclipse Marketplace æœç´¢go ä¸‹è½½å®‰è£…
    window-->Preferences-->go
-     go installaction directory goµÄ°²×°Â·¾¶
+     go installaction directory goçš„å®‰è£…è·¯å¾„
      gocode
      guru
      godef
